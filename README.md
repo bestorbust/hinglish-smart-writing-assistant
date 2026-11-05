@@ -1,9 +1,12 @@
 # ✍️ Hinglish Smart Writing Assistant
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hinglish-smart-writing-assistant-j8wwck9psrazpbaaru4ibj.streamlit.app/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)](https://streamlit.io/)
+[![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-Deployed-brightgreen?logo=Streamlit&logoColor=white)](https://hinglish-smart-writing-assistant-j8wwck9psrazpbaaru4ibj.streamlit.app/)
 [![Benchmark Accuracy](https://img.shields.io/badge/Benchmark%20Accuracy-100%25-brightgreen.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+> 🚀 **Live Web App:** Try the application directly in your browser at **[hinglish-smart-writing-assistant.streamlit.app](https://hinglish-smart-writing-assistant-j8wwck9psrazpbaaru4ibj.streamlit.app/)**
 
 An intelligent, context-aware writing and translation assistant for Romanized Hindi-English (**Hinglish**). It automatically resolves informal texting shorthand and typos, converts Roman script into fluent **Devanagari**, polishes readability, and translates into multiple Indic languages and English.
 
@@ -46,9 +49,17 @@ An intelligent, context-aware writing and translation assistant for Romanized Hi
 
 ## 🚀 Quickstart & Installation
 
-### 1. Clone the Repository
+### 🌐 Option A: Use the Live Web App (No Setup Required)
+Access the live deployment on Streamlit Cloud directly from your browser:  
+👉 **[Open Live App on Streamlit Cloud](https://hinglish-smart-writing-assistant-j8wwck9psrazpbaaru4ibj.streamlit.app/)**
+
+---
+
+### 💻 Option B: Run Locally
+
+#### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/hinglish-smart-writing-assistant.git
+git clone https://github.com/bestorbust/hinglish-smart-writing-assistant.git
 cd hinglish-smart-writing-assistant
 ```
 
