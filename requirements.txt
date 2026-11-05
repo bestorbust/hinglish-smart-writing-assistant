@@ -1,0 +1,2 @@
+streamlit>=1.32,<2
+# Optional IndicXlit runtime: pip install ai4bharat-transliteration

@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Streamlit secrets (prevent accidental credential leaks)
+.streamlit/secrets.toml
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# Temporary and log files
+*.tmp
+*.log
+*.bak
+
+# Large model weights / checkpoints (downloaded at runtime)
+*.bin
+*.pt
+*.pth
+*.onnx
+*.safetensors
+
